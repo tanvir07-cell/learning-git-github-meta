@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Blah blah blah
 
-=======
-Blah blah blah
->>>>>>> 16daaaa57cd06f50ae5530306403e836917a9f2c
